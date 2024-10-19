@@ -2,6 +2,8 @@ module github.com/navivan123/pokedex-cli
 
 go 1.23.1
 
-require internal/locationPokeAPI v1.0.0
+require internal/pokeapi v1.0.0
+replace internal/pokeapi => ./internal/pokeapi/
 
-replace internal/locationPokeAPI => ./internal/locationPokeAPI
+require internal/pokecache v1.0.0
+replace internal/pokecache => ./internal/pokecache/

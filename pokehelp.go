@@ -33,5 +33,21 @@ func getCommands() map[string]cliCommand {
             name:        "mapb",
             description: "View Previous 20 Locations in the Pokemon World!",
         },
+        "explore": {
+            name:        "explore",
+            description: "View Pokemons Available to Capture in the Area Specified!",
+        },
+        "catch": {
+            name:        "catch",
+            description: "Attempt to Catch Specified Pokemon!",
+        },
+        "inspect": {
+            name:        "inspect",
+            description: "View Details About a Specified Pokemon!",
+        },
+        "pokedex": {
+            name:        "pokedex", 
+            description: "View All Pokemon You Have Caught!",
+        },
     }
 }
