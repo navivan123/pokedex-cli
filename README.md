@@ -39,5 +39,5 @@ View all the pokemon you've caught.  Pretty self-explanatory, only lists the nam
 
 ## Advanced Info:
 - If you know the ID of the pokemon/area, you can also use that.
-- Each pokemons Base XP's square root is taken and then compared with a uniform distribution between 0 and sqrt(800). This produces a curve that works nicely, where 50%/50% chance coincides with an XP of 200, so unless the pokemon has a high base XP, it should be easily captured, though the probability is not 100.
+- Each pokemons Base XP's square root is taken and then compared with a uniform distribution between 0 and sqrt(800). This produces a curve that works nicely, where 50%/50% chance coincides with an XP of 200, so unless the pokemon has a high base XP, it should be easily captured, though the probability is not 100%.
 
