@@ -6,7 +6,7 @@ Download the latest release from the releases section: [Releases](https://github
 Run the desired binary depending on your operating system.
 
 ### Method 2
-If you have go 1.23.1, you can simply run the CLI on Linux using the run.sh script.
+If you have go 1.23.1 and running Linux, you can simply run the CLI using the run.sh script.
 You can also use whatever go commands to build and run the program.
 
 ## CLI Breakdown:
