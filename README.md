@@ -1,7 +1,5 @@
 # pokedex-cli
 
-You need Go 1.23.1
-
 ## Ways to run the program
 ### Method 1
 Download the latest release from the releases section: [Releases](https://github.com/navivan123/pokedex-cli/releases).
